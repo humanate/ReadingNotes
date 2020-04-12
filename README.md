@@ -1,1 +1,6 @@
 # ReadingNotes
+
+## Effective Java
+
+
+
